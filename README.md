@@ -15,8 +15,7 @@ Admin 2 : Amir | Mystic
 
   <div class="table-container">
         <table class="small-table">
-            <thead>
-                         <tr>
+            <thead>                        
             <th>OS</th>
             <th>Download</th>
              </tr>
