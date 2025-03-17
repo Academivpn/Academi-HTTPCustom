@@ -14,7 +14,7 @@ Admin 2 : Amir | Mystic
 
 
 <div align=left>
-<table>o
+<table>
     <thead align=left>
         <tr>
             <th>OS</th>
@@ -35,5 +35,3 @@ Admin 2 : Amir | Mystic
 
 </div>
 
-
-.
