@@ -81,3 +81,18 @@ src="https://img.shields.io/badge/HTTPCustom-GooglePlay-yellow?logo=android
     </div>
 </body>
 </html>
+
+
+ <div class="table-container">
+        <table class="small-table">
+            <thead>
+                <tr>
+                    <th>OS</th>
+                    <th>Download</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Android</td>
+                    <td><a href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom&hl=en">دانلود</a></td>
+src="https://img.shields.io/badge/HTTPCustom-GooglePlay-yellow?logo=android"></a><br>
