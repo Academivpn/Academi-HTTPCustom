@@ -35,3 +35,49 @@ Admin 2 : Amir | Mystic
 
 </div>
 
+
+
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>دانلودها</title>
+    <style>
+        .small-table {
+            width: 50%; /* عرض جدول را به 50% کاهش می‌دهد */
+            border-collapse: collapse; /* حذف فاصله بین سلول‌ها */
+            margin: 0 auto; /* مرکز قرار دادن جدول */
+        }
+
+        .small-table th, .small-table td {
+            border: 1px solid #000; /* حاشیه برای سلول‌ها */
+            padding: 8px; /* فاصله داخلی سلول‌ها */
+            text-align: left; /* تراز متن به چپ */
+        }
+    </style>
+</head>
+<body>
+    <div class="table-container">
+        <table class="small-table">
+            <thead>
+                <tr>
+                    <th>سیستم عامل</th>
+                    <th>دانلود</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Android</td>
+                    <td><a href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom&hl=en">دانلود</a></td>
+                </tr>
+                <tr>
+                    <td>iOS</td>
+                    <td><a href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom&hl=en">Download</a></td>"><img
+src="https://img.shields.io/badge/HTTPCustom-GooglePlay-yellow?logo=android
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
