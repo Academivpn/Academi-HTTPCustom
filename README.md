@@ -1,8 +1,6 @@
 ![IMG_20250317_194033_352](https://github.com/user-attachments/assets/a18dedb7-c8ca-4256-af5f-7b30b195e7b7)
 
 
-
-
 [Telegram Channel](https://t.me/Academi_vpn)
 
 Owner: Puriya @Puriya73
