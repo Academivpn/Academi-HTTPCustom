@@ -9,6 +9,9 @@ Admin 1 : NaseR | Alone
 
 Admin 2 : Amir | Mystic
 
+![IMG_20250318_155300_262](https://github.com/user-attachments/assets/055d0a97-70b9-4fb7-9d14-2e169241087c)
+
+
 
 :red_circle: لینک دانلود برای تمامی سیستم عامل ها   :red_circle:
 
