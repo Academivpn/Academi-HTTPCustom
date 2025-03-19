@@ -34,5 +34,5 @@ Admin 2 : Amir | Mystic
         <td>GooglePlay</td>
             <td>
                 <a
-href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom&hl=en"><img src="https://img.shields.io/badge/HTTPCustom-GooglePlay-yellow?logo=googleplay"> </a>
+href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom&hl=en"><img src="https://img.shields.io/badge/HTTPCustom-GooglePlay-yellow?logo=googleplay"></a>
      
